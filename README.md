@@ -2,7 +2,7 @@
 
 ## Project Description
 This project was automatically generated based on the following requirement:
-Create a Snake and Adder game: snake moves on grid, eats numbers, score shown in #score.
+Enhance Snake and Adder: high score (#high-score) stored in localStorage, obstacles (.obstacle) added, speed increases every 5 points.
 
 ## Features
 - Implements the specified functionality
